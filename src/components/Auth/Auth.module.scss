@@ -1,0 +1,23 @@
+.auth_container {
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 25px 40px;
+}
+.auth_component {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0px 0px 15px 0px;
+  min-width: 260px;
+}
+
+.error_message {
+  color: red;
+}

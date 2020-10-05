@@ -1,0 +1,27 @@
+.create_user_container {
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 25px 40px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0px 0px 15px 0px;
+  min-width: 260px;
+}
+
+.active_mode {
+  color: #85827b;
+}
+
+.switch {
+  cursor: pointer;
+}
+
+.error_message {
+  color: red;
+}
